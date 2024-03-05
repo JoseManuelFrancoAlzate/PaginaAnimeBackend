@@ -1,0 +1,181 @@
+
+	POWERS:
+
+		{
+"name": "Kame hame ha",
+"description": " consiste en reunir una gran cantidad de energía en las manos y soltarla de golpe",
+"image":"https://i.pinimg.com/originals/ac/48/22/ac4822aefaec274c6c5dc99b54034596.gif"
+	}
+
+	
+		{
+"name": "Kiensan",
+"description": "Consiste en un disco de Ki que gira alrededor de sí mismo. Fue inventado por Krilin y lanzado por primera vez en combate contra Nappa.",
+"image":"https://pa1.aminoapps.com/6261/d33c6cc0babf0fd5b2e91860194edc63d6993d0a_00.gif"
+	}
+	
+		{
+"name": "Masenko Ha",
+"description": "es una ráfaga de energía usada principalmente por Son Gohan, pero fue diseñada y creada por el Rey Demonio Piccolo. El ataque se realiza por el usuario colocando ambas manos por encima de la cabeza con las palmas hacia el blanco y la mano una enfrente de la otra con los dedos que van en direcciones opuestas. Cuando el usuario mete las manos hacia adelante dice el nombre de la técnica y dispara un rayo de energía que puede ser de distintos colores.",
+"image":"https://64.media.tumblr.com/b54f1af847ab54ecc99040d731db07bf/tumblr_p3p9hpmDcg1v4u49oo1_540.gif"
+	}
+	
+		{
+"name": "Makankosappo",
+"description": "es un haz de ki perforador, el cual es una de las técnicas insignia más poderosas y conocidas de Piccolo en Dragon Ball.El usuario se toca la frente con sus dedos índice y medio, luego carga la energía suficiente para atacar al enemigo. Cuando la carga está lista, el usuario grita el nombre de la técnica y extiende la mano, desencadenando dos rayos de Ki muy delgados. Uno de los rayos va en línea recta, mientras el otro hace una espiral al rededor del otro. Si el ataque impacta contra el enemigo le causaría mucho daños, hasta podría causarle la muerte. La desventaja principal de la técnica es que toma demasiado tiempo para reunir energía, pero con una concentración rápida se puede contrarrestar el defecto. ",
+"image":"https://media1.tenor.com/m/0JkEenUZnU0AAAAd/piccolo-ultimate-piccolo.gif"
+	}
+	
+		{
+"name": "Rasengan",
+"description": "el usuario libera chakra en la palma de su mano y lo hace rotar a gran velocidad para crear una esfera con el objetivo de impactar al enemigo",
+"image":"https://i.gifer.com/3MT3.gif"
+	}
+	
+		{
+"name": "Chidori",
+"description": "Este Jutsu consiste en juntar una gran cantidad de chakra en la mano del usuario. La cantidad de chakra es tan grande que se hace visible a simple vista. La técnica realmente consiste en alterar la naturaleza del chakra del usuario, de manera efectiva su conversión en electricidad. Como un efecto secundario del proceso de conversión, la gran cantidad de chakra, y la velocidad a la que el usuario se mueve, esta técnica hace un ruido fuerte similar a muchas aves trinando",
+"image":"https://24.media.tumblr.com/85bff85d7795ebc755317b63ce4caa59/tumblr_mo8ujtFTkX1rnvb0co1_500.gif"
+	}
+
+		{
+"name": "Rasen shuriken",
+"description": "La base de este ataque es una esfera de chakra, siendo que una vez que se le aplica el Estilo de Viento, al Rasengan le crecen cuchillas gigantes a su alrededor que giran a gran velocidad.",
+"image":"https://i.imgur.com/DrmpCAU.gif"
+	}
+		{
+"name": "Sharingan",
+"description": "habilidades ilusorias con las que pueden atrapar fácilmente a sus enemigos con tan solo mirarlos, tambien permite copiar técnicas del rival, deja al descubierto su Ninjutsu y Genjutsu y permite anticipar su Taijutsu",
+"image":"https://i.pinimg.com/originals/e5/9d/b1/e59db16c28231975d8866a7f263c0558.gif"
+	}
+		{
+"name": "Bankai",
+"description": "Bankai (卍解): Segunda liberación y final del Zanpakutō. Para lograr la liberación bankai, el portador debe ser capaz de materializar el espíritu de su Zanpakutō en la realidad, vencerlo y someterlo. ​ Según Yoruichi, el Bankai incrementa el poder del Shinigami en cinco a diez veces.",
+"image":"https://i.pinimg.com/originals/b8/66/da/b866da451d2f482b6357f7fcbba1df0f.gif"
+	}
+		{
+"name": "Zanpaku-to",
+"description": "Las zanpakutō (斬魄刀) son katanas usadas por shinigamis capaces de purificar hollows y enviar los plus hacia la Sociedad de Almas mediante un proceso llamado funeral del alma para cual se usa el extremo del mango del zanpakutō.",
+"image":"https://giffiles.alphacoders.com/154/154877.gif"
+	}
+		{
+"name": "Kido",
+"description": "Kido son los hechizos que usan los shinigami, se dividen principalmente en 2 caminos Bakudo y Hado, Hado son hechizos de ataque directos son muy simple y sus finalidad es agredir al objetivo, mientras los Bakudo, son multipropocitos, barreras, atadura, ocultamiento etc",
+"image":"https://static.wikia.nocookie.net/bleach/images/b/b7/Nij%C5%ABEish%C5%8DKidoDoble.gif/revision/latest?cb=20210227182804&path-prefix=es"
+}
+	{
+"name": "Haki de armadura",
+"description": "permite que el usuario recubra su cuerpo, o parte de este, ganando mucha más resistencia y potencial destructivo. Una peculiaridad de este tipo de Haki es que, cuando se activa y se aplica sobre el cuerpo, la coraza que se consigue es de color negro.",
+"image":"https://static.wikia.nocookie.net/onepiece/images/c/cc/Busoshoku_haki_Luffy.gif/revision/latest?cb=20190407054502&path-prefix=es"
+	}
+		{
+"name": "Gomu Gomu no",
+"description": "es una fruta del diablo de tipo Zoan Mitologica que le otorga al cuerpo del consumidor las propiedades de la goma, lo que lo convierte en un hombre de goma",
+"image":"https://files.cults3d.com/uploaders/18530473/illustration-file/066ea6b5-16e8-4d57-afc1-b6bb3cea85cd/gumgum.gif"
+	}
+		{
+"name": "Gomu gomu no pistol",
+"description": "Luffy estira su brazo a mucha velocidad, aumentando su fuerza hasta tal punto de comparar el puñetazo con un disparo",
+"image":"https://media1.tenor.com/m/eTo-ytFNLX8AAAAC/luffy-pistol.gif"
+	}
+
+	{
+"name": "Gomu gomu no  gatling",
+"description": "Luffy usa su habilidad para estirarse para dar puñetazos consecutivos con tal velocidad y fuerza que crea la ilusión de que tiene múltiples brazos que hace que la técnica parezca una metralleta",
+"image":"https://media1.tenor.com/m/KoDl6F02OvEAAAAC/gomu-gomu-no-gatling-punch.gif"
+	}
+
+	---
+	PERSONAJES:
+
+
+	{
+"name": "Goku",
+"image":"https://gifdb.com/images/high/goku-thumbs-up-5r8q4qe80h4649ot.gif",
+"description":"Son Goku (孫そん悟ご空くう, Son Gokū) es el protagonista principal del manga y anime de Dragon Ball creado por Akira Toriyama. Su nombre real y de nacimiento es Kakarotto (カカロット, Kakarotto «Kacarrot» en saiyano en alfabeto saiyano) y es uno de los pocos saiyanos que lograron sobrevivir a la destrucción total del Planeta Vegeta del Universo 7. Es el segundo hijo de Bardock y Gine, hermano menor de Raditz, nieto adoptivo de Son Gohan, esposo de Chi-Chi, padre de Son Gohan y Son Goten, a su vez también es el abuelo de Pan y ancestro de Son Goku Jr."
+"power":[1,2]
+	}
+	{
+"name": "Krillin",
+"image":"https://media1.tenor.com/m/bfwyHpyc3W0AAAAC/krillin-taunt.gif",
+"description":"Es uno de los principales discípulos de Kame-Sen'nin, Guerrero Z, y el mejor amigo de Son Goku. Es junto a Bulma uno de los personajes de apoyo principales de Dragon Ball, Dragon Ball Z y Dragon Ball Super. Aparece en Dragon Ball GT como personaje secundario. En el Arco de Majin Boo, se retira de las artes marciales, optando por formar una familia, como el esposo de la Androide Número 18 y el padre de Marron.",
+"power":[1,2]
+	}
+	{
+"name": "Gohan",
+"image":"https://media1.tenor.com/m/haD3xIjupt8AAAAC/gohan-dbz.gif",
+"description":" es uno de los personajes principales de los arcos argumentales de Dragon Ball Z, Dragon Ball Super y Dragon Ball GT. Es un mestizo entre saiyano y humano terrícola. Es el primer hijo de Son Goku y Chi-Chi, hermano mayor de Son Goten, esposo de Videl y padre de Pan."
+"power":[3]
+	}
+	{
+"name": "Piccolo",
+"image":"https://giffiles.alphacoders.com/480/48086.gif",
+"description":"Es un namekiano que surgió tras ser creado en los últimos momentos de vida de su padre, siendo su actual reencarnación. Aunque en un principio fue el archienemigo de Son Goku, con el paso del tiempo fue haciéndose menos malvado hasta finalmente convertirse en un ser bondadoso y miembro de los Guerreros Z. A través del tiempo, también comenzó a tomarle cariño a su discípulo Son Gohan, a quien veía como una especie de "vástago" y formando un lazo de amistad con este.",
+"power":[3,4]
+	}
+	{
+"name": "Naruto",
+"image":"https://i.pinimg.com/originals/7a/3d/44/7a3d44bb12803b174dc135156e492125.gif",
+"description":"Fue miembro del Equipo Kakashi junto a Sakura Haruno y Sasuke Uchiha. Actualmente es el Séptimo Hokage (七代目火影, Nanadaime Hokage; literalmente «Séptima Sombra del Fuego») de Konoha, cumpliendo su sueño, así como también el esposo de Hinata Hyūga y padre de Boruto Uzumaki y Himawari Uzumaki."
+"power":[5,7]
+	}
+	{
+"name": "Sasuke",
+"image":"https://i.pinimg.com/originals/30/f4/66/30f4668bb6d31b337c23842aa886e341.gif",
+"description":"Sasuke Uchiha (うちはサスケ, Uchiha Sasuke) es el deuteragonista de la serie y uno de los supervivientes del Clan Uchiha. Es hijo de Fugaku Uchiha y Mikoto Uchiha, hermano de Itachi Uchiha, así como la Reencarnación actual de Indra Ōtsutsuki. A pesar de crear relaciones con los miembros del Equipo Kakashi, Sasuke decidió desertar de Konohagakure en busca del poder necesario para vengar a su clan y asesinar a Itachi. Después de descubrir la verdad de su hermano, fundó Taka, fue un aliado temporal de Akatsuki y se convirtió en un criminal internacional.",
+"power":[6,8]
+	}
+	{
+"name": "Ichigo",
+"image":"https://i.gifer.com/Hdrp.gif",
+"description":"Ichigo Kurosaki (黒崎 一護, Kurosaki Ichigo ?) es el protagonista principal de Bleach. Ichigo es un Humano que también trabaja como Shinigami Sustituto. Ichigo es el hijo de Isshin y Masaki Kurosaki, y hermano mayor de Karin y Yuzu. También está casado con Orihime Inoue y tiene un hijo llamado Kazui Kurosaki.",
+"power":[9,10,11]
+	}
+	{
+"name": "Rukia",
+"image":"https://giffiles.alphacoders.com/158/15808.gif",
+"description":"la actual capitana de la Decimotercera División del Gotei 13. Anteriormente tuvo la posición de teniente de la Decimotercera División bajo el capitán Jūshirō Ukitake. Rukia es la hermana adoptiva de Byakuya Kuchiki y amiga de Ichigo Kurosaki. Ella se encuentra casada con Renji Abarai y tiene una hija llamada Ichika Abarai.",
+"power":[10,11]
+	}
+	{
+"name": "Luffy",
+"image":"https://i.pinimg.com/originals/2f/56/90/2f5690ee185f5345025b1a5b0bf2c8aa.gif",
+"description":" Es el capitán y fundador de los Piratas de Sombrero de Paja así como un de los Cuatro Emperadores que gobiernan los mares del Nuevo Mundo.[19] Comió una fruta del diablo llamada fruta Gomu Gomu, que le convirtió en un hombre de goma. Además de esto, posee varias habilidades que le hacen ser un pirata más que especial; un gran ejemplo de ello es la capacidad de usar el haoshoku haki ―que sólo lo posee una persona dentro de un millón― y poseer también los otros dos tipos de haki.",
+"power":[12,13,14,15]
+	}
+	{
+"name": "Zoro",
+"image":"https://i.pinimg.com/originals/a4/16/92/a416928b32c1b538dbc136f689069214.gif",
+"description":"conocido como El Cazador de Piratas (海賊狩り Kaizoku Gari?),[14] es el primer pirata que se unió a Monkey D. Luffy, y el principal combatiente de los Piratas de Sombrero de Paja,uno de sus dos espadachines y uno de los oficiales principales de la Gran Flota de Sombrero de Paja, así como un antiguo cazarrecompensas.[15][1]"
+"power":[12]
+	}
+-----
+
+ANIME:
+{
+    "name":"Dragon Ball Z",
+    "image":"https://www.dragon-ball-gif.com/wp-content/uploads/2021/07/Logo-Dragon-Ball-Z-Opening-1.gif",
+    "description":"Dragon Ball Z continúa las aventuras de Son Goku en su vida adulta mientras él y sus compañeros defienden la Tierra contra villanos, incluidos extraterrestres (Vegeta, Freezer), androides (Cell) y criaturas mágicas (Majin Buu). Al mismo tiempo, la historia es paralela a la vida de su hijo, Gohan, así como al desarrollo de sus rivales, Piccolo y Vegeta.",
+	"personajes":[1,2,3,4]
+}
+{
+    "name":"Naruto",
+    "image":"https://i.gifer.com/Tevv.gif",
+    "description":" La obra narra la historia de un Ninja huérfano adolescente llamado Naruto Uzumaki, cuyos padres murieron en el ataque del Zorro Demonio de Nueve Colas (Kyubi), y quien aspira a convertirse en Hokage (líder de su aldea) con el propósito de ser reconocido como alguien importante dentro de la aldea y entre sus compañeros.",
+	"personaje":[5,6]
+
+}
+{
+    "name":"Bleach",
+    "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e70a315f-ddcd-4831-9e0b-ef203aca33e7/d2lbap6-d3db5eea-05e6-4f4e-b6b7-057b8df86f59.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U3MGEzMTVmLWRkY2QtNDgzMS05ZTBiLWVmMjAzYWNhMzNlN1wvZDJsYmFwNi1kM2RiNWVlYS0wNWU2LTRmNGUtYjZiNy0wNTdiOGRmODZmNTkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.An4iAKSVFJlaZNwuOQpZvGuuHuUCKQOY87OUn412wOY",
+    "description":" La serie narra las aventuras de Ichigo Kurosaki, un adolescente que accidentalmente absorbe los poderes de una shinigami —personificación japonesa del Dios de la muerte— llamada Rukia Kuchiki.2​ Una vez que Ichigo obtiene estas habilidades es obligado a orientar a las almas buenas después de la muerte y defenderlas de los hollows, espíritus malignos que tratan de devorarlas",
+	"personaje":[7,8]
+
+}
+{
+    "name":"One piece",
+    "image":"https://i.pinimg.com/originals/ad/89/7b/ad897b29129fb56c6d1693f508b6cefe.gif",
+    "description":"One Piece narra la historia de un joven llamado Monkey D. Luffy, que inspirado por su amigo pirata Shanks, comienza un viaje para alcanzar su sueño, ser el Rey de los piratas, para lo cual deberá encontrar el tesoro One Piece dejado por el anterior rey de los piratas Gol D. Roger.",
+	"personaje":[9,10]
+
+}
